@@ -10,11 +10,11 @@ export const certificates = [
   },
   {
     id: 'cert-2',
-    title: 'certificate title will be added soon.',
-    issuer: 'issuer will be added soon.',
-    date: '2025-12',
-    description: 'description will be added soon.',
-    image: '/certificates/placeholder.svg',
-    href: '/certificates/placeholder.svg'
-  }
+    title: "IBM SkillsBuild – Project Based Learning Program (Front-End Web Development)",
+    issuer: "CSRBOX Foundation in collaboration with IBM SkillsBuild",
+    date: "2025 August",
+    description: "Successfully completed the project-based learning program “Click, Code, Create: Beginner’s Guide to Front End Web Development.” Gained hands-on experience in HTML, CSS, and JavaScript through real-world projects under the IBM SkillsBuild initiative.",
+    image: '/certificates/fewd.jpg',
+    href: '/certificates/fewd.jpg'
+}
 ]
